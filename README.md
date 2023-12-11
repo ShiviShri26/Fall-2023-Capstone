@@ -19,7 +19,7 @@ My contribution to the project involves addressing the Business Problem Statemen
 The solution's business value encompasses effective Inventory Management, optimized Resource Allocation, Waste Reduction strategies, a refined Pricing Strategy, and comprehensive Financial Planning.
 
 
-# Difficulties that your group encountered along the way.
+# Difficulties that your my encountered along the way.
 
 In our journey, the primary challenge we faced revolved around handling the time series data, which proved insufficient for our needs. Despite this limitation, we persisted in working with the available data. With more substantial data, we could have engaged in feature engineering to create new columns. Additionally, my initial knowledge of machine learning was limited, but I expanded my understanding through collaborative learning within the team. The forecasting aspect posed a notable challenge due to its complexity.
 
